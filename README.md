@@ -5,7 +5,9 @@ Here, I analyzed a Dataset of the World Happiness Record of 2023 to unveil the t
 Findings: 📈
 Finland 🇫🇮is the Happiest Country with the highest corresponding Ladder Score/Happiness Score, closely followed by 🇩🇰 and Iceland 🇮🇸😄.
 
-Topping the chart for the saddest country is 🇦🇫 followed by 🇱🇧
+Topping the chart for the saddest country is 🇦🇫 followed by Lebanon
+
+
 <img width="516" alt="WHR" src="https://github.com/BenDatta/World-Happiness-Record-PowerBi/assets/135694513/758ef355-6511-49c6-a050-1380e169026c">
 
 
